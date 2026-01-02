@@ -16,7 +16,9 @@ Hi 👋 I'm Shivam  <br><br>I’m a passionate student learning Full Stack Web D
 ![](https://github-profile-trophy.vercel.app/?username=Shivam16a&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shivam16a&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 📌 Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam16a&layout=compact&theme=dark)
+<!--![](https://github-contributor-stats.vercel.app/api?username=Shivam16a&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shivam16a&icon=0&color=0)](https://visitcount.itsvg.in)

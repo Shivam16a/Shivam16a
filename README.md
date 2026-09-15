@@ -32,10 +32,10 @@
 
 | Project | Tech Stack | Core Engineering Highlights | Links |
 | :--- | :--- | :--- | :---: |
-| **CVPilot** | `AI/LLM Integration` `React` `Node.js` `Tailwind` | AI-powered resume builder creating ATS-optimized resumes with multi-model fallback handling. | [Repo](https://github.com/Shivam16a/CVPilot) |
+| **CVPilot** | `AI/LLM Integration` `React` `Node.js` `Bootstrap` | AI-powered resume builder creating ATS-optimized resumes with multi-model fallback handling. | [Repo](https://github.com/Shivam16a/CVPilot) |
 | **BaatCheet** | `React` `Node.js` `Socket.io` `MongoDB` `JWT` | Real-time chat application with instant WebSocket connections and secure auth. | [Repo](https://github.com/Shivam16a/BaatCheet) |
 | **Drop2Share** | `JavaScript` `Node.js` `Express` `QR Engine` | Drag-and-drop file sharing platform auto-generating QR codes and direct download links. | [Repo](https://github.com/Shivam16a/Drop2share) |
-| **RideIntelliX** | `MERN Stack` `REST APIs` `Tailwind CSS` | Vehicle rental portal featuring role-based authorization, inventory logic, and modular APIs. | [Repo](https://github.com/Shivam16a/RideIntelliX_Smart_Bike_and_Scooter_Rental_System) |
+| **RideIntelliX** | `MERN Stack` `REST APIs` `Bootstrap` | Vehicle rental portal featuring role-based authorization, inventory logic, and modular APIs. | [Repo](https://github.com/Shivam16a/RideIntelliX_Smart_Bike_and_Scooter_Rental_System) |
 | **Aashray** | `Node.js` `Express` `MongoDB` `Cron Jobs` | Hotel management suite with automated cron jobs and complete API integration. | [Repo](https://github.com/Shivam16a/Aashray-Hotel_management_system) |
 | **Yachika** | `React` `Node.js` `Express` `MongoDB` `Bcrypt` | Leave application management system with structured approval workflows and JWT auth. | [Repo](https://github.com/Shivam16a/leave_application_management_system) |
 
@@ -48,10 +48,12 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/Context_API-000000?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-F5788D?style=flat&logo=chart.js&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
 </p>
@@ -67,7 +69,7 @@
 </p>
 
 <p>
-  <b>Tools, Platforms & Deployment:</b><br/>
+  <b>Tools, Platforms & OS:</b><br/>
   <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
@@ -77,6 +79,7 @@
   <img src="https://img.shields.io/badge/Netlify-000000?style=flat&logo=netlify&logoColor=00C7B7" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_(Kubuntu)-0079C1?style=flat&logo=kde&logoColor=white" />
 </p>
 
 ---
@@ -85,7 +88,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Shivam16a&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Shivam16a&theme=dark&hide_border=false" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam16a&theme=dark&hide_border=false" width="48%" alt="GitHub Streak" />
 </div>
 
 <br/>

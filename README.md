@@ -11,9 +11,6 @@
     <a href="https://shivamportfolio16a.netlify.app" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://vercel.com/shivam16as-projects" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Demos-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel Demos" />
-    </a>
   </p>
 </div>
 
@@ -32,7 +29,7 @@
 
 | Project | Tech Stack | Core Engineering Highlights | Links |
 | :--- | :--- | :--- | :---: |
-| **CVPilot** | `AI/LLM Integration` `React` `Node.js` `Bootstrap` | AI-powered resume builder creating ATS-optimized resumes with multi-model fallback handling. | [Repo](https://github.com/Shivam16a/CVPilot) |
+| **CVPilot** | `AI/LLM Integration` `React` `Node.js` `Bootstrap` | AI-powered resume builder creating ATS-optimized resumes with multi-model fallback handling. | [Repo](https://github.com/Shivam16a/CVpilot) |
 | **BaatCheet** | `React` `Node.js` `Socket.io` `MongoDB` `JWT` | Real-time chat application with instant WebSocket connections and secure auth. | [Repo](https://github.com/Shivam16a/BaatCheet) |
 | **Drop2Share** | `JavaScript` `Node.js` `Express` `QR Engine` | Drag-and-drop file sharing platform auto-generating QR codes and direct download links. | [Repo](https://github.com/Shivam16a/Drop2share) |
 | **RideIntelliX** | `MERN Stack` `REST APIs` `Bootstrap` | Vehicle rental portal featuring role-based authorization, inventory logic, and modular APIs. | [Repo](https://github.com/Shivam16a/RideIntelliX_Smart_Bike_and_Scooter_Rental_System) |

@@ -8,7 +8,6 @@
     <a href="mailto:shivam123hjp@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <---! Hello --->
     <a href="https://shivamportfolio16a.netlify.app" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Portfolio" />
     </a>

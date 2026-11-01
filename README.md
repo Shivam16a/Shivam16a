@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=180&section=header&text=Shivam%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20Open%20to%20Full-Time%20Roles&descFontSize=16&descFontAlignY=62" width="100%" />
 
   <p align="center">
+    <!--- hello --->
     <a href="https://www.linkedin.com/in/shivam-kumar-0a743b322/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
